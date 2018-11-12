@@ -321,6 +321,9 @@ namespace GraficadorSenales
                 case 2: //Convolución
                     senalResultado = Senal.convolucionar(senal, senal2);
                     break;
+                case 3: //Correlación
+                    senalResultado = Senal.correlacionar(senal, senal2);
+                    break;
                 default:
                     break;
             }

@@ -73,6 +73,7 @@
             <ComboBoxItem>Suma</ComboBoxItem>
             <ComboBoxItem>Multiplicacion</ComboBoxItem>
             <ComboBoxItem>Convolución</ComboBoxItem>
+            <ComboBoxItem>Correlación</ComboBoxItem>
         </ComboBox>
         <Button x:Name="btnGraficar" Content="Graficar" HorizontalAlignment="Left" Margin="984,191,-192,0" VerticalAlignment="Top" Width="182" Height="24" FontSize="14" Click="btnGraficar_Click"/>
         <Button x:Name="btnRealizarOperacion" Content="Realizar Operación" HorizontalAlignment="Left" Margin="984,290,-192,0" VerticalAlignment="Top" Width="182" Click="btnRealizarOperacion_Click"/>
